@@ -1,16 +1,14 @@
-### Hi there 👋
+![programmer](https://user-images.githubusercontent.com/114849726/231139413-d6c064f4-9e11-4fa3-a4a2-7766276fa364.gif)
+### Hi there 👋 I'm Hüseyin
 
-<!--
-**hsynbasr/hsynbasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ASP.NET
+- 🌱 I’m currently learning React
+- 📫 How to reach me: huseyinbaser@outlook.com.tr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsynbasr&hide_progress=true)](https://github.com/hsynbasr/github-readme-stats)
+
+
