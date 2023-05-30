@@ -3,12 +3,12 @@
 
 
 - 🔭 I’m currently working on ASP.NET
-- 🌱 I’m currently learning React
 - 📫 How to reach me: huseyinbaser@outlook.com.tr
 
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsynbasr&hide_progress=true)](https://github.com/hsynbasr/github-readme-stats)
+
 
 
